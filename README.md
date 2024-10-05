@@ -1,1 +1,1 @@
-# nawiri-frontend
+# pipsy-frontend
